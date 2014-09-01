@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="verde_app">#00b24c</color>
+    <color name="bianco">#FFF</color>
+    <color name="arancione">#E28002</color>
+    <color name="verde">#00B24C</color>
+    <color name="rosso">#B20026</color>
+    <color name="sfondo">#008c3c</color>
+</resources>

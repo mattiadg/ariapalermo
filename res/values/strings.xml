@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AriaPalermo</string>
+    <string name="action_settings">Settings</string>
+    <string name="got_values">Misurato</string>
+    <string name="limit_values">Limite</string>
+    <string name="biossidoazoto">NO2</string>
+    <string name="biossidozolfo">SO2</string>
+    <string name="benzene">benzene</string>
+    <string name="materialeparticolato">particolato</string>
+    <string name="verde">verde</string>
+    <string name="connection_error">Impossibile contattare il server!\nVerifica la tua connessione di rete</string>
+    <string name="xml_error">Il formato del documento xml non è valido!</string>
+    <string name="my_air">Composizione dell\'Aria</string>
+    <string name="no_location_err">Impossibile trovare la tua posizione!\nAttivare i servizi di localizzazione per continuare</string>
+    <string name="search_string">Indirizzo da cercare:</string>
+    <string name="search">Cerca</string>
+    <string name="cancel">Annulla</string>
+    <string name="indirizzo">indirizzo</string>
+    <string name="gps">gps</string>
+    <string name="status_ok">ok</string>
+    <string name="status_out_of_border">err_cord</string>
+    <string name="status_error">err_get</string>
+    <string name="point_id">id</string>
+    <string name="point_lat">lat</string>
+    <string name="point_lon">lon</string>
+    <string name="aree_verdi">Aree Verdi</string>
+    <string name="error_dialog_message">Connettività assente! Riprova dopo aver effettuato il collegamento a internet</string>
+    <string name="error_dialog_button">Riprova</string>
+    <string name="mia_aria">La mia aria</string>
+    <string name="passeggiata">Fai una passeggiata</string>
+    <string name="search_button">Cerca indirizzo</string>
+    <string name="search_hint">\'via emanuele notarbartolo 63\' \n\'viale delle libertà\'\n\'via la malfa\'</string>
+    <string name="splash">Splash Screen</string>
+    <string name="help">Help</string>
+    <string name="main_help">Aree Verdi\nClicka per vedere le aree verdi nella mappa di Palermo e il puntatori a tutte le stazioni di rilevamento dei dati\nMia Aria\nRileva la tua posizione ed effettua una stima* dei parametri di inquinamento basandosi sui dati delle stazioni.\nFai Passeggiata\nTrova un\'area verde vicino dove ti trovi e ti mostra il percorso per raggiungerla. In questo modo potrai trovare luoghi a basso inquinamento dove passeggiare.\nCerca Indirizzo\nEffettua una stima* dei parametri di inquinamento di un indirizzo di Palermo a tua scelta.\n\n\n*La stima è basata sui valori degli open data messi a disposizione dal Comune di Palermo e sono relativi all\'anno 2011.</string>
+    <string name="help_aree_verdi">Apre una mappa che mostra le aree verdi registrate dal comune di Palermo e posiziona dei puntatori nei luoghi in cui si trovano le stazioni che effettuano i rilevamenti.</string>
+    <string name="help_mia_aria">Apre una mappa della città di Palermo centrata sulla tua posizione* e mostra una stima** dei valori di inquinamento stimati* per la tua posizione, oltre alla percentuale di verde presente intorno a te.\nInoltre, riporta una percentuale globale che indica il livello di inquinamento rispetto ai valori soglia.</string>
+    <string name="help_passeggiata">Cerca una zona pedonale vicino a te* e ti mostra su una mappa il percorso per raggiungerla.</string>
+    <string name="help_cerca">Inserisci un indirizzo di Palermo e potrai visualizzare una stima** dei valori di inquinamento per quell\'indirizzo.\nLa schermata visualizzata è identica a quella che si ottiene con il bottone &quot;La mia aria&quot; e il significato dei valori è identico.\n\n*Per visualizzare la tua posizione devi attivare i servizi di localizzazione. La posizione trovata sarà l\'ultima rilevata da un servizio google di localizzazione, come per esempio Google Maps.\n**La stima viene effettuata basandosi sui valori delle stazioni più vicine. I valori sono da intendersi aggiornati all\'ultima rilevazione pubblicata dal Comune di Palermo. Gli ultimi dati pubblicati risalgono all\'anno 2011.</string>
+    <string name="back">Torna al menu principale</string>
+
+</resources>
